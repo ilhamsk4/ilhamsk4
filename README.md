@@ -1,6 +1,6 @@
 ## Hi there, I'm Ilham1104 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="right" alt="GIF" height="125px" src="https://i.ibb.co/hBkX25M/tenor.gif" />
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on my campus project
